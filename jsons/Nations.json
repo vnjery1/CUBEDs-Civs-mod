@@ -1,24 +1,31 @@
 [
       {
-             "name": "",
+             "name": "Kanem",
              "style": "African",
-             "leaderName": "",
-             "adjective": [""],
-             "startBias": [""],
-             "preferredVictoryType": "",
+             "leaderName": "Omar I",
+             "adjective": ["Kanem","Bornu"],
+             "startBias": ["Plains"],
+             "preferredVictoryType": "Domination",
 
              "startIntroPart1": "...",
-             "startIntroPart2": "...",
+             "startIntroPart2": "Can you build a civilization that can stand the test of time?",
 
-             "declaringWar": "",
-             "attacked": "",
-             "defeated": "",
-             "introduction": "",
+             "declaringWar": "Get out of my way, hurry up!",
+             "attacked": "Fine, this war shall last for centuries to come!",
+             "defeated": "Alright, destroy Kanem, because i can always form a new kingdom anyway...",
+             "introduction": "We have been focred to move to these fertile lands, we are Kanem..!",
 
-             "neutralHello": "...",
-             "hateHello": "",
+             "neutralHello": "Hello?",
+             "hateHello": "Hmm?",
 
-             "tradeRequest": "",
+             "tradeRequest": "Welcome, care for an exchange of things?",
 
              "outerColor": [],
+             "innerColor": [],
+             "favoredReligion": "Islam",
+             "uniqueName": "",
+             "uniques": [""],
+             "cities": [""],
+      },
+],
         
