@@ -38,18 +38,18 @@
             "startIntroPart1": "...",
             "startIntroPart2": "Can you build a civilization that can stand the test of time?",
 
-            "declaringWar": "",
-            "attacked": "",
-            "defeated": "",
-            "introduction": "",
+            "declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
+            "attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
+            "defeated": "We resisted to the last, but it was too late... too late.",
+            "introduction": "I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?",
 
             "neutralHello": "Yes?",
             "hateHello": "What is it!?",
 
             "tradeRequest": "Our crops are ripe this time around, would you like some?",
 
-            "outerColor": [],
-            "innerColor": [],
+            "outerColor": [0,79,205],
+            "innerColor": [117,163,243],
             "uniqueName": "Toqui",
             "uniques": [""],
             "cities": [""],
