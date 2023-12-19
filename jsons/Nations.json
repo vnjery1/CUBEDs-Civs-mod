@@ -24,7 +24,7 @@
              "innerColor": [2, 199, 54],
              "favoredReligion": "Islam",
              "uniqueName": "Lake Chad and The Sahara",
-             "uniques": ["[+1 Gold, +2 Food] from [Lake] tiles [in all cities]"],
+             "uniques": ["[+1 Gold, +3 Food] from [Lake] tiles [in all cities]"],
              "cities": ["Njimi","N'Djamena","Sarh","Birni Ngazargamu","Maroua","Abeche","Maiduguri","Bongor","Faya-Largeau","Ngaoundere","Pala","Bertoua","Dabilda","Kanem"],
       },
       {
@@ -51,7 +51,7 @@
             "outerColor": [0,79,205],
             "innerColor": [117,163,243],
             "uniqueName": "Toqui",
-            "uniques": [""],
+            "uniques": ["[+2 Gold, +1 Culture] from every [Farm]"],
             "cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu","Mamull Mapu","Mapuche"],
       },
 ]
