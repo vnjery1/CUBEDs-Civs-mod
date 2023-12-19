@@ -30,7 +30,7 @@
       {
             "name": "The Mapuche",
             "style": "South American",
-            "leaderName": "'Larotaro'",
+            "leaderName": "Lautaro",
             "adjective": ["Mapuche"],
             "startBias": ["Hill"],
             "preferredVictoryType": "Cultural",
@@ -50,7 +50,7 @@
 
             "outerColor": [],
             "innerColor": [],
-            "uniqueName": "",
+            "uniqueName": "Toqui",
             "uniques": [""],
             "cities": [""],
       },
