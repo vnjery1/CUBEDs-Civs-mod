@@ -50,7 +50,9 @@
 
             "outerColor": [],
             "innerColor": [],
-
-            "uniqueName": "
+            "uniqueName": "",
+            "uniques": [""],
+            "cities": [""],
+      },
 ]
         
