@@ -104,8 +104,8 @@
 
 	      "tradeRequest": "Would you like a trade agreement with Bavaria?",
 
-	      "outerColor": [],
-	      "innerColor": [],
+	      "outerColor": [19, 205, 212],
+	      "innerColor": [255, 255, 255],
 	      "uniqueName": "Swan King",
 	      "uniques": [""],
 	      "cities": ["Munich"],
