@@ -65,7 +65,23 @@
             "startIntroPart1": "...",
             "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
 
-            
+            "declaringWar": "Ka mate! Ka mate!",
+            "attacked": "Look at the big civ leader over there with the war declaration! Great job, mate. Really shows off how hard you are.",
+		"defeated": "I have done my utmost, but your strength was greater. My heart, at least, will beat undefeated.",
+            "introduction": "Kia Ora! You approach the land of Atearoa, land of the Māori",
+
+            "neutralHello": "Kia Ora.",
+            "hateHello": "Die.",
+
+            "tradeRequest": "Here are gifts of pounamu, korowai cloaks and huhu grubs.",
+
+            "outerColor": [205,0,1],
+            "innerColor": [125,235,228],
+            "uniqueName": "Land of the Long White Cloud",
+            "uniques": [""],
+            "cities": [""],
+      },
+
             
 ]
         
