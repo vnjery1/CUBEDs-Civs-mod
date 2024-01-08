@@ -108,7 +108,7 @@
 	      "innerColor": [255, 255, 255],
 	      "uniqueName": "Swan King",
 	      "uniques": ["Gain a free [Castle] [in all cities] <starting from the [Renaissance era]>"],
-	      "cities": ["Munich"],
+	      "cities": ["Munich","Nuremberg","Augsburg","Bamberg","Rothenburg ob der Tauber"],
       },
             
 ]
