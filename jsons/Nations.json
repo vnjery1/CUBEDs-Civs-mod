@@ -78,7 +78,9 @@
             "outerColor": [205,0,1],
             "innerColor": [125,235,228],
             "uniqueName": "Land of the Long White Cloud",
-            "uniques": [""],
+            "uniques": ["Enables embarkation for land units <starting from the [Ancient era]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+1] Sight <for [Embarked] units>"],
             "cities": ["Te Hokianga-nui-a-kupe","Ngaruawahia","Opango","Whakarewarewa","Kaiapoi","Whanganui","Kawhia","Taumutu","Kapiti","Te Pokohiwi","Māori"],
       },
 
