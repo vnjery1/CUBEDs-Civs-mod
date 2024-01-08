@@ -54,5 +54,18 @@
             "uniques": ["[+2 Gold, +1 Culture] from every [Farm]"],
             "cities": ["Ngulu Mapu","Puel Mapu","Pikun Mapu","Nag Mapu","Willi Mapu","Pewen Mapu","Wente Mapu","Huilli Mapu","Lafken Mapu","Ina Pire Mapu","Mamull Mapu","Mapuche"],
       },
+      {
+            "name": "The Māori",
+            "style": "Oceanic",
+            "leaderName": "Kupe",
+            "adjective": ["Māori"],
+            "startBias": ["Coast"],
+            "preferredVictoryType": "Domination",
+
+            "startIntroPart1": "...",
+            "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
+
+            
+            
 ]
         
