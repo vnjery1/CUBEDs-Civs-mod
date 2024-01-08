@@ -94,8 +94,22 @@
 	      "startIntroPart1": "...",
 	      "startIntroPart2": "Can you build a civilization that can stand the test of time?",
 
-	      "declaringWar": "
+	      "declaringWar": "In this war, surely we will be victorious!",
+	      "attacked": "This kingdom is stronger than you think, its about time you learned.",
+	      "defeated": "You'll never take me alive!",
+	      "introduction": "Welcome, I am Ludwig II, The Swan King. king of Bavaria.",
 
+              "neutralHello": "Good Evening...",
+	      "hateHello": "No.",
+
+	      "tradeRequest": "Would you like a trade agreement with Bavaria?",
+
+	      "outerColor": [],
+	      "innerColor": [],
+	      "uniqueName": "Swan King",
+	      "uniques": [""],
+	      "cities": ["Munich"],
+      },
             
 ]
         
