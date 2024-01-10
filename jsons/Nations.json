@@ -121,6 +121,20 @@
 	      "startIntroPart1": "...",
 	      "startIntroPatt2": "Can you build a civilization that can stand against the test of time?",
 
+	      "declaringWar": "Your people are changing our way of life, so we need to defend it from you...",
+	      "attacked": "You cannot just remove us from our land, it's not right!",
+	      "defeated": "Fine, maybe it might be better to just let go... What a shame.",
+              "introduction": "Hello? We are the Shawnee, why have you come here?",
+
+	      "neutralHello": "Hello.",
+	      "hateHello": "Let us go...",
+
+	      "tradeRequest": "Your arrival is respected. Now, what are we trading?",
+
+	      "outerColor": [],
+	      "innerColor": [],
+
+
 	      
 	      
             
