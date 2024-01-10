@@ -110,6 +110,19 @@
 	      "uniques": ["Gain a free [Castle] [in all cities] <starting from the [Renaissance era]>"],
 	      "cities": ["Munich","Nuremberg","Augsburg","Bamberg","Rothenburg ob der Tauber","Regenburg","Würzburg","Rosenheim","Bayreuth","Landshut","Bavaria"],
       },
+      {
+	      "name": "Shawnee",
+	      "style": "North American",
+	      "leaderName": "",
+	      "adjective": ["Shawnees"],
+	      "startBias": ["Grassland"],
+	      "preferredVictoryType": "",
+
+	      "startIntroPart1": "...",
+	      "startIntroPatt2": "Can you build a civilization that can stand against the test of time?",
+
+	      
+	      
             
 ]
         
