@@ -113,7 +113,7 @@
       {
 	      "name": "Shawnee",
 	      "style": "North American",
-	      "leaderName": "",
+	      "leaderName": "John Lewis",
 	      "adjective": ["Shawnees"],
 	      "startBias": ["Grassland"],
 	      "preferredVictoryType": "",
@@ -131,8 +131,12 @@
 
 	      "tradeRequest": "Your arrival is respected. Now, what are we trading?",
 
-	      "outerColor": [],
-	      "innerColor": [],
+	      "outerColor": [22, 159, 184],
+	      "innerColor": [35, 112, 24],
+	      "uniqueName": "Fort Ancient Culture",
+	      "uniques": [""],
+	      "cities": [""],
+      },
 
 
 	      
