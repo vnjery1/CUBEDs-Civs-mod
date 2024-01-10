@@ -4,7 +4,7 @@
              "style": "African",
              "leaderName": "Omar I",
              "adjective": ["Kanem","Bornu"],
-             "startBias": ["Plains"],
+             "startBias": ["Plains","Lake"],
              "preferredVictoryType": "Domination",
 
              "startIntroPart1": "...",
