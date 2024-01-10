@@ -135,7 +135,7 @@
 	      "innerColor": [35, 112, 24],
 	      "uniqueName": "Fort Ancient Culture",
 	      "uniques": ["[+2 Faith] from [Hill] tiles [in all cities]"],
-	      "cities": [""],
+	      "cities": ["Louiseville","Frankfort","Chillicothe","Piketon","Portsmouth","Jackson","Hillsboro","Shawnee"],
       },
 
 
