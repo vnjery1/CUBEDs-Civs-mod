@@ -137,9 +137,9 @@
 	      "uniques": ["[+2 Faith] from [Hill] tiles [in all cities]"],
 	      "cities": ["Louiseville","Frankfort","Chillicothe","Piketon","Portsmouth","Jackson","Hillsboro","Shawnee"],
       },
-
-
-	      
+  //    {
+//	      "name": "Medina",
+//	      "style": "Middle Eastern",
 	      
             
 ]
